@@ -1,0 +1,49 @@
+body {
+    font-family: sans-serif;
+}
+h1{
+    color: dodgerblue;
+    text-align: center;
+}
+.link-header{
+    background-color: cornflowerblue;
+    border-radius: 5px;
+    
+    margin:10px;
+}
+b{
+    color: cornflowerblue;
+}
+body {
+    font-family: sans-serif;
+}
+h1{
+    color: dodgerblue;
+    text-align: center;
+}
+p{
+    color:darkblue;
+}
+.link-header{
+    background-color: cornflowerblue;
+    border-radius: 5px;
+    
+    margin:10px;
+}
+.link-nav{
+    margin-top: 10000px;
+}
+body {
+    font-family: sans-serif;
+}
+h1{
+    color: dodgerblue;
+}
+p{
+    color:darkblue;
+}
+.link-header{
+    background-color: cornflowerblue;
+    border-radius: 5px;
+    padding: 7px;
+}
